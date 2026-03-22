@@ -1,0 +1,6 @@
+*.keras
+*.h5
+*.zip
+mushroom_dataset/
+__pycache__/
+.ipynb_checkpoints/
